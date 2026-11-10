@@ -1,0 +1,7 @@
+node_modules/
+test-results/
+screenshots/
+.DS_Store
+Thumbs.db
+mondwald-claude-code.zip
+.vs/
